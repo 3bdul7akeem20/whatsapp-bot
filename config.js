@@ -1,7 +1,7 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.owner = ['6281284760551', '6281284760551'] // Your Number
+global.owner = ['918111040155', '918111040155'] // Your Number
 
 global.APIs = { // API Prefix
   // nama: 'https://website'
@@ -21,7 +21,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey in here
   // 'https://website': 'apikey'
-  'https://api-xcoders.xyz': 'APIKEY', // REGISTER ON WEB
+  'https://api-xcoders.xyz': 'YBT38vD3V4', // REGISTER ON WEB
   'https://api.reysekha.xyz': 'apirey', // UNLIMITED
   'https://hardianto.xyz': 'hardianto', // UNLIMITED
   'https://api.neoxr.eu.org': 'yourkey', // UNLIMITED
